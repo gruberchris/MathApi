@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathApi", "MathApi\MathApi.csproj", "{EA913D36-10CF-44CA-943A-5F79AE57C08A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathApi.Calculator", "MathApi.Calculator\MathApi.Calculator.csproj", "{48E0306E-82DF-40D4-9AB8-FDD00FC06E6C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathApi.Calculator.UnitTests", "MathApi.Calculator.UnitTests\MathApi.Calculator.UnitTests.csproj", "{EC585100-B43A-4231-B8D2-9B79EE241887}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA913D36-10CF-44CA-943A-5F79AE57C08A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA913D36-10CF-44CA-943A-5F79AE57C08A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA913D36-10CF-44CA-943A-5F79AE57C08A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA913D36-10CF-44CA-943A-5F79AE57C08A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48E0306E-82DF-40D4-9AB8-FDD00FC06E6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48E0306E-82DF-40D4-9AB8-FDD00FC06E6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48E0306E-82DF-40D4-9AB8-FDD00FC06E6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48E0306E-82DF-40D4-9AB8-FDD00FC06E6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC585100-B43A-4231-B8D2-9B79EE241887}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC585100-B43A-4231-B8D2-9B79EE241887}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC585100-B43A-4231-B8D2-9B79EE241887}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC585100-B43A-4231-B8D2-9B79EE241887}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

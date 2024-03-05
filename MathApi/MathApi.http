@@ -1,0 +1,9 @@
+@MathApi_HostAddress = http://localhost:5186
+
+GET {{MathApi_HostAddress}}/calculate/add/3/2/
+Accept: application/json
+###
+
+GET {{MathApi_HostAddress}}/calculate/subtract/3/2/
+Accept: application/json
+###
